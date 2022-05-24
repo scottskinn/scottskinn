@@ -18,9 +18,9 @@ Languages
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 More to come!!! 😎
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottskinn" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scottskinn&theme=vue" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=scottskinn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottskinn" />
 
 
 <!---
