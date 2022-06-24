@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottskinn
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m interested in becoming a Frontend Developer!
+- 🌱 I’m currently improving my skills in JavaScript and React!
 - 📫 How to reach me scottskinn2n@gmail.com
 - 🏢 Find me on LinkedIn https://www.linkedin.com/in/scott-skinn/
 - 🌌 Checkout my portfolio http://scott2n.pythonanywhere.com/
