@@ -4,7 +4,7 @@
 - 🔧 I’m currently improving my skills in JavaScript and React!
 - 📫 How to reach me scottskinn2n@gmail.com
 - 🔗 Find me on LinkedIn https://www.linkedin.com/in/scott-skinn/
-- 🌎 Checkout my portfolio http://scott2n.pythonanywhere.com/
+- 🌎 Checkout my portfolio https://scott-skinn.netlify.app/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/PZwDQbQFzR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/scott-skinn/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/scottskinn2n) 
